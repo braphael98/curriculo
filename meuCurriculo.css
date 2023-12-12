@@ -1,0 +1,99 @@
+* {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+body,
+html {
+    padding: 3px 3px 3px 3px;
+
+    background: rgb(0,0,0);
+background: linear-gradient(43deg, rgba(0,0,0,1) 18%, rgba(0,142,255,1) 100%);
+
+    font-family: 'Ezarion', sans-serif;
+    font-size: 16pt;
+    text-align: center;
+    color: rgb(0, 0, 0);
+   
+}
+img{
+        position:absolute;
+        right:10%;
+        top:12%;
+    
+}
+div.main_page {
+    position: relative;
+    display: table;
+
+    width: 800px;
+
+    margin-bottom: 1px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px 0px 0px 0px;
+
+    border-width: 5px;
+    border-color: #000000;
+    border-style: solid;
+    background: rgb(224, 218, 218);
+    background: linear-gradient(135deg, rgba(224, 218, 218, 1) 71%, rgba(0, 0, 0, 1) 100%);
+    text-align: center;
+}
+
+div.redes-sociais {
+    display: inline;
+}
+
+a:link,
+a:visited {
+    background: rgb(0,0,0);
+background: linear-gradient(43deg, rgba(0,0,0,1) 18%, rgba(0,142,255,1) 100%);
+    color: rgb(255, 255, 255);
+    padding: 14px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover,
+a:active {
+    background: rgb(11,34,231);
+    background: linear-gradient(43deg, rgba(11,34,231,1) 36%, rgba(77,77,77,1) 87%);
+
+}
+
+ul {
+    padding: 4px 8px 4px 16px;
+    text-align: left;
+}
+
+li {
+    margin-left: 50px;
+}
+
+h1 {
+    text-align: #14c6cc;
+}
+
+h2 {
+    text-align: left;
+}
+
+h3 {
+    color: #000000;
+    padding-top: 15px;
+    Padding-bottom: 15px;
+}
+
+p {
+    text-align: justify;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+h4 {
+    color: #000000;
+    padding-top: 15px;
+    Padding-bottom: 15px;
+}

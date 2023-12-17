@@ -7,21 +7,23 @@ body,
 html {
     padding: 3px 3px 3px 3px;
 
-    background: rgb(0,0,0);
-background: linear-gradient(43deg, rgba(0,0,0,1) 18%, rgba(0,142,255,1) 100%);
+    background: rgb(0, 0, 0);
+    background: linear-gradient(43deg, rgba(0, 0, 0, 1) 18%, rgba(0, 142, 255, 1) 100%);
 
     font-family: 'Ezarion', sans-serif;
     font-size: 16pt;
     text-align: center;
     color: rgb(0, 0, 0);
-   
+
 }
-img{
-        position:absolute;
-        right:10%;
-        top:12%;
-    
+
+img {
+    position: absolute;
+    right: 10%;
+    top: 12%;
+
 }
+
 div.main_page {
     position: relative;
     display: table;
@@ -47,8 +49,8 @@ div.redes-sociais {
 
 a:link,
 a:visited {
-    background: rgb(0,0,0);
-background: linear-gradient(43deg, rgba(0,0,0,1) 18%, rgba(0,142,255,1) 100%);
+    background: rgb(0, 0, 0);
+    background: linear-gradient(43deg, rgba(0, 0, 0, 1) 18%, rgba(0, 142, 255, 1) 100%);
     color: rgb(255, 255, 255);
     padding: 14px 20px;
     text-align: center;
@@ -58,8 +60,8 @@ background: linear-gradient(43deg, rgba(0,0,0,1) 18%, rgba(0,142,255,1) 100%);
 
 a:hover,
 a:active {
-    background: rgb(11,34,231);
-    background: linear-gradient(43deg, rgba(11,34,231,1) 36%, rgba(77,77,77,1) 87%);
+    background: rgb(11, 34, 231);
+    background: linear-gradient(43deg, rgba(11, 34, 231, 1) 36%, rgba(77, 77, 77, 1) 87%);
 
 }
 
